@@ -1,0 +1,52 @@
+# Exploratory Data Analysis Report
+
+## Introduction
+
+This report analyzes customer data to identify trends and patterns.
+
+## Dataset Overview
+
+Total Records: 4
+
+Total Columns: 7
+
+Columns:
+
+* CustomerID
+* Name
+* DOB
+* City
+* Email
+* RegistrationDate
+* Customer_Age
+
+## Descriptive Statistics
+
+Average Age: 24 years
+
+Minimum Age: 22 years
+
+Maximum Age: 26 years
+
+## City Distribution
+
+Hyderabad: 3 customers
+
+Vijayawada: 1 customer
+
+## Visualizations
+
+Insert:
+
+1. Customer Age Distribution Histogram
+2. Customers by City Bar Chart
+
+## Key Insights
+
+1. Most customers belong to Hyderabad.
+2. Average customer age is 24 years.
+3. Customer ages range from 22 to 26 years.
+
+## Conclusion
+
+The dataset shows that Hyderabad has the highest number of customers and the average customer age is 24 years.
