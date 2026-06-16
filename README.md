@@ -1,29 +1,15 @@
 # Exploratory Data Analysis & Business Intelligence
 
-## Objective
+## Dashboard Visualizations
 
-Analyze customer data and generate business insights using Python and SQL.
+### Customer Age Distribution
+![Histogram](histogram.png)
 
-## Tools Used
-
-* Python
-* Pandas
-* Matplotlib
-* SQL
-
-## Dataset
-
-Customer information including age, city, email, and registration details.
+### Customers by City
+![City Chart](city_chart.png)
 
 ## Key Findings
 
-* Average customer age: 24 years
-* Hyderabad has the highest customer count
-* Customer ages range from 22 to 26 years
-
-## Deliverables
-
-* EDA Report
-* SQL Queries
-* Dashboard Mock-up
-* Python Analysis Script
+- Average customer age: 24 years
+- Hyderabad has the highest customer count
+- Customer ages range from 22 to 26 years
