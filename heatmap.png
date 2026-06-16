@@ -1,0 +1,15 @@
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+df = pd.read_csv("customer_cleaned.csv")
+
+corr = df[["CustomerID", "Customer_Age"]].corr()
+
+sns.heatmap(corr, annot=True)
+
+plt.title("Correlation Heatmap")
+
+plt.savefig("heatmap.png")   # Saves image in the same folder
+
+plt.show()
